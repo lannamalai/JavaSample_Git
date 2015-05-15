@@ -1,4 +1,4 @@
-package come.sample.utils;
+package com.sample.utils;
 
 import java.util.Date;
 
